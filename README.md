@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcublog&show_icons=true)
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcublog&layout=compact&count_private=true&hide_border=true" alt="Top Langs">
 
 <!--
