@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcublog)](https://github.com/anuraghazra/github-readme-stats)
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcublog&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcublog&layout=compact&count_private=true&hide_border=true" alt="Top Langs">
 
 <!--
 **Mcublog/mcublog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
