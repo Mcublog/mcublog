@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@018c696b-0bdf-43bb-ab77-72c32d0bf4fe/ca985d85-95f9-40f8-a58d-74c63ee6bea6.svg"></embed></figure>
+<!--END_SECTION:waka-->
