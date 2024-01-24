@@ -16,3 +16,5 @@ Other              2 hrs 20 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@018c696b-0bdf-43bb-ab77-72c32d0bf4fe/05074869-5df3-4620-a5e5-4e4dc7b53151.svg"></embed></figure>
