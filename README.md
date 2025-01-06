@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/018c696b-0bdf-43bb-ab77-72c32d0bf4fe.svg)](https://wakatime.com/@018c696b-0bdf-43bb-ab77-72c32d0bf4fe)
-[![Viacheslav profile views](https://u8views.com/api/v1/github/profiles/25109435/views/day-week-month-total-count.svg)](https://u8views.com/github/Mcublog)
 
 <!-- README-STATS:START -->
 
@@ -55,3 +54,5 @@ Other             20 hrs 30 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+[![Viacheslav profile views](https://u8views.com/api/v1/github/profiles/25109435/views/day-week-month-total-count.svg)](https://u8views.com/github/Mcublog)
