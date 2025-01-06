@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/018c696b-0bdf-43bb-ab77-72c32d0bf4fe.svg)](https://wakatime.com/@018c696b-0bdf-43bb-ab77-72c32d0bf4fe)
+
 <!--START_SECTION:waka-->
 
 ```C
