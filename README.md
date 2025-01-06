@@ -19,3 +19,7 @@ Other             20 hrs 30 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<!-- README-STATS:START -->
+
+<!-- README-STATS:END -->
