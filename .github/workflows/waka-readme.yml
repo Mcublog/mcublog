@@ -48,7 +48,7 @@ jobs:
       - uses: mahyarmirrashed/github-readme-stats@main # v1.0 and other tags exist, as well
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          TIMEZONE: "America/Winnipeg"
+          TIMEZONE: "Europe/Moscow"
           FEATURES: "DAY_STATS,WEEK_STATS,LANGUAGE_STATS"
       - name: "Commit changes"
         run: |
