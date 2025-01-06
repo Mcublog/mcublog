@@ -12,7 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: Mcublog/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAKEY }}
           ### meta
@@ -22,8 +22,8 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          CODE_LANG: C # optional
+          TIME_RANGE: last_year # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
