@@ -50,7 +50,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           TIMEZONE: "Europe/Moscow"
-          FEATURES: "DAY_STATS,WEEK_STATS,LANGUAGE_STATS"
+          FEATURES: "DAY_STATS,WEEK_STATS"
       - name: "Commit changes"
         run: |
           git config --global user.name "github-actions[bot]"
