@@ -1,0 +1,28 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # Every Tuesday at 1PM UTC (9AM EST)
+    - cron: "0 13 * * 2"
+
+jobs:
+  update-github-stats:
+    name: Update Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: mahyarmirrashed/github-readme-stats@main # v1.0 and other tags exist, as well
+        with:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          TIMEZONE: "Europe/Moscow"
+          FEATURES: "DAY_STATS,WEEK_STATS"
+      - name: "Commit changes"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
+          git add README.md
+          git commit -m "chore: update readme via actions"
+          git push
